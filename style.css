@@ -1,4 +1,21 @@
+#firstparagraph {
+   background-color: lightblue;
+}
+#sixthparagrahph:hover {color: orange
+#secondparagraph {
+  font-family: cursive;
+}
+body {
+  background-image: url(https://pbs.twimg.com/media/CdCLAAsWoAEEP16.jpg);
+  
+}
 
+#forthparagraph {
+  float: right; 
+}
+.evennumbers {
+  color: #891464
+}
 .box {
   width: 100px;
   height: 100px;
@@ -6,13 +23,13 @@
 }
 
 #one {
-  background-color: red;
-}
-
-#two {
   background-color: blue;
 }
 
-#three {
+#two  {
+  background-color: red;
+}
+
+#three  {
   background-color: green;
 }
